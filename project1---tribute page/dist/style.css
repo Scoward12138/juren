@@ -1,0 +1,47 @@
+body {
+  background-color: #A9BFFF;
+}
+
+.top-border {
+  background: #1e1f26;
+  height: 65px;
+}
+
+.eiren-icon {
+  height: 65px;
+  width: 65px;
+}
+
+.sinnzou {
+  color: orange;
+  font-size: 50px; 
+}
+
+.ailun1 {
+  color: black;
+  font-size: 50px;
+}
+
+#tribute-link {
+  position: relative;
+  top:10px;
+}
+
+#image{
+  max-width: 100%;
+  display:block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 297px;
+}
+
+#img-div{
+  align-items:center;
+}
+
+
+
+
+
